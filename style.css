@@ -1,0 +1,10 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#navbarMonstera{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
